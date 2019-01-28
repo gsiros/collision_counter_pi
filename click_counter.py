@@ -1,13 +1,4 @@
 import time
-""" 
-Greetings and thanks for checking my script. To calculate the digits of pi, I counted the number of clicks per
-collision before the two objects never touch again.
-
-Email: geo2001s@gmail.com
-
-Enjoy!
-
-"""
 
 d = int(input("How many digits of pi would you like to calculate? "))
 
